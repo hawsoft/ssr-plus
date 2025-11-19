@@ -27,7 +27,7 @@ define Package/shadowsocksr-libev/Default
     CATEGORY:=Network
     SUBMENU:=Web Servers/Proxies
     TITLE:=shadowsocksr-libev ssr-$(1)
-    URL:=https://github.com/shadowsocksrr/shadowsocksr-libev
+    URL:=https://github.com/hawsoft/shadowsocksr-libev
     DEPENDS:=+libev +libsodium +libopenssl +libpthread +libpcre2 +libudns +zlib
   endef
 
